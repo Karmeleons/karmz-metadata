@@ -1,0 +1,48 @@
+{
+  "name": "Karmz #449",
+  "description": "The Karmeleons thought they were the only lifeforms left on Earth, until one day they sensed the same Karmic energy that allowed them to thrive come from an island off the coast of Karma City. There they discovered the Karmz! A similar but less refined species than themselves, they decided to begin mentoring the Karmz and working together to restore the planet.",
+  "image": "ipfs://QmTUgC516tKkD6VSFfX35WK7iLK5GxPBBhHpCgr2icmikH/449.png",
+  "animation_url": "ipfs://QmTUgC516tKkD6VSFfX35WK7iLK5GxPBBhHpCgr2icmikH/449.mp4",
+  "dna": "4617a2ecc6ce2e46cc95a65443e5eea4a253cfe2",
+  "edition": 449,
+  "date": 1652739257945,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Stealth Metagold Tats"
+    },
+    {
+      "trait_type": "Horns",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Gold Bomber"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Heterochromia Blue Yellow"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoop"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "Gold Band"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Chill"
+    },
+    {
+      "trait_type": "Metaholo",
+      "value": "True"
+    }
+  ],
+  "compiler": "Karmeleons Art Engine"
+}

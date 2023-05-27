@@ -1,0 +1,39 @@
+{
+  "name": "Karmz #1693",
+  "description": "The Karmeleons thought they were the only lifeforms left on Earth, until one day they sensed the same Karmic energy that allowed them to thrive come from an island off the coast of Karma City. There they discovered the Karmz! A similar but less refined species than themselves, they decided to begin mentoring the Karmz and working together to restore the planet.",
+  "image": "ipfs://QmTUgC516tKkD6VSFfX35WK7iLK5GxPBBhHpCgr2icmikH/1693.png",
+  "dna": "a286c856a7e4631bf1295d86b7e4a6432ba5e2f9",
+  "edition": 1693,
+  "date": 1652729969365,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Gray"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Gold Fiesta Tats"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Arctic Punk Hair"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Gray Tracksuit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Joint"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Chill"
+    }
+  ],
+  "compiler": "Karmeleons Art Engine"
+}
