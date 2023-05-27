@@ -1,6 +1,6 @@
 # karmz-metadata
 
-##Official Metadata of the Karmz NFT collection on Ethereum
+## Official Metadata of the Karmz NFT collection on Ethereum
 
 Help us keep track of the 2,000 Karmz NFTs being burned by updating metadata of burnt assets. Burned Karmz belong to a `BurnAddress` wallet and are no longer purchasable/tradable on the secondary market.
 
@@ -11,7 +11,7 @@ The goal of this repo is to crowdsource updates and curate the collection's meta
 To make updates, pull down this repo and update the `.json` files belonging to the burned assets. Here's an example of a burned asset, and the changes that need to be made to its metadata:
 
 
-###Example of current metadata of Karmz #1:
+### Example of current metadata of Karmz #1:
 
 ```
 {
@@ -52,7 +52,7 @@ To make updates, pull down this repo and update the `.json` files belonging to t
 }
 ```
 
-###Example of updating the metadata of Karmz #1 if the asset was burned:
+### Example of updating the metadata of Karmz #1 if the asset was burned:
 
 ```
 {
